@@ -102,7 +102,7 @@ cd weather-app
 - [ ] Weather icons per condition
 - [ ] Auto-detect user location (Geolocation API)
 - [ ] Dark / light mode toggle
-- [ ] Deploy on GitHub Pages
+- [ ] Deploy on GitHub pages
 
 ---
 
